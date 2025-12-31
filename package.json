@@ -1,0 +1,22 @@
+{
+  "name": "advanced-moderation-bot",
+  "version": "1.0.0",
+  "description": "A feature-rich Discord moderation bot built with Discord.js v14.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "discord.js"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
